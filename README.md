@@ -1,5 +1,19 @@
+<div id="banner align="center">
+         <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="1000" height="250" />
+</div>
+                                                                                                        
+:woman_technologist: About Me : I am a Full Stack Developer with a BS in Communication Media Studies/Psychology and a MS in Information Technology - Software Engineering.
+                                                                                                        
+- :telescope: I am currently completing a software engineering fellowship with Per Scholas focusing on responsive full stack web applications.
+
+- :seedling: I am exploring game design.
+
+- :zap: In my free time, I help others with troubleshooting their code and read tech articles (when I'm not falling down a reddit rabbithole).
+
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-shanel-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/shanel)
+
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy.gif" alt="compiling coffee into code">
+<img src="https://media.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy.gif" width="300" height="300" alt="compiling coffee into code" />
 </div>
 
 <div id="badges" align="center">
