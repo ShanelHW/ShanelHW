@@ -1,12 +1,13 @@
 <div id="banner align="center">
-         <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="1000" height="250" />
+         <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="900" height="250" />
 </div>
                                                                                                         
-:woman_technologist: About Me : I am a Full Stack Developer with a BS in Communication Media Studies/Psychology and a MS in Information Technology - Software Engineering.
+:woman_technologist: About Me : I am a Full Stack Developer with a MS in Information Technology - Software Engineering and a passion for risk analysis.
                                                                                                         
-- :telescope: I am currently completing a software engineering fellowship with Per Scholas focusing on responsive full stack web applications.
+- :telescope: I am currently working on responsive full stack web applications.
 
 - :seedling: I am exploring data analysis and machine learning.
+>>>>>>> main
 
 - :zap: In my free time, I help others with troubleshooting their code and read tech articles (when I'm not falling down a reddit rabbithole).
 
