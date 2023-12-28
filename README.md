@@ -6,7 +6,7 @@
                                                                                                         
 - :telescope: I am currently completing a software engineering fellowship with Per Scholas focusing on responsive full stack web applications.
 
-- :seedling: I am exploring game design.
+- :seedling: I am exploring data analysis and machine learning.
 
 - :zap: In my free time, I help others with troubleshooting their code and read tech articles (when I'm not falling down a reddit rabbithole).
 
