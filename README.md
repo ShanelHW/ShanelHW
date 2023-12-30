@@ -1,10 +1,8 @@
 <div id="banner align="center">
-         <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="900" height="250" />
+         <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="950" height="250" />
 </div>
- Shanel HW - Full Stack Developer :woman_technologist:
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="900" height="250" />
-</div>
+ Shanel HW - Full Stack Developer
+
 About Me
 I'm a passionate Full Stack Developer with an MS in Information Technology - Software Engineering. My area of interest lies in risk analysis, and I thrive on creating responsive full-stack web applications.
 
