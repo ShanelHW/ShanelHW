@@ -1,35 +1,32 @@
 <div id="banner align="center">
          <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="900" height="250" />
 </div>
-                                                                                                        
-:woman_technologist: About Me : I am a Full Stack Developer with a MS in Information Technology - Software Engineering and a passion for risk analysis.
-                                                                                                        
-- :telescope: I am currently working on responsive full stack web applications.
-
-- :seedling: I am exploring data analysis and machine learning.
->>>>>>> main
-
-- :zap: In my free time, I help others with troubleshooting their code and read tech articles (when I'm not falling down a reddit rabbithole).
-
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-shanel-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/shanel)
-
-<div id="header" align="center">
-<img src="https://media.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy.gif" width="300" height="300" alt="compiling coffee into code" />
+ Shanel HW - Full Stack Developer :woman_technologist:
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="900" height="250" />
 </div>
+About Me
+I'm a passionate Full Stack Developer with an MS in Information Technology - Software Engineering. My area of interest lies in risk analysis, and I thrive on creating responsive full-stack web applications.
 
-<div id="badges" align="center">
+What I'm Doing
+:telescope: Currently working on developing responsive full-stack web applications.
+:seedling: Exploring the realms of data analysis and machine learning.
+:zap: Assisting others with code troubleshooting and devouring tech articles in my spare time (when I'm not exploring Reddit).
+Contact Me
+:mailbox: Connect with me on Linkedin Badge
+:bird: Follow me on Twitter
+Badges & Stats
+<div align="center">
   <a href="https://linkedin.com/in/shanel">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-    <a href="https://twitter.com/shanelATL">
+  <a href="https://twitter.com/shanelATL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-    <img alt="freeCodeCamp points" src="https://img.shields.io/freecodecamp/points/shanelatl">
+  <img alt="freeCodeCamp points" src="https://img.shields.io/freecodecamp/points/shanelatl">
 </div>
-<div id="views" align="center">
-<img src="https://komarev.com/ghpvc/?username=shanelhw&style=flat-square&color=blue" alt=""/>
-  <h1>
-  Hello!
-  <img src="https://media.giphy.com/media/mTpY1GAXRAspZTpeBn/giphy.gif" width="30px"/>
-</h1>
+Views
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=shanelhw&style=flat-square&color=blue" alt=""/>
+  <h1>Hello! <img src="https://media.giphy.com/media/mTpY1GAXRAspZTpeBn/giphy.gif" width="30px"/></h1>
 </div>
