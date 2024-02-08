@@ -14,6 +14,11 @@
     <li>Providing assistance with code troubleshooting and avidly consuming tech articles during leisure time (when not exploring Reddit)</li>
 </ul>
 
+<p><strong>Education</strong></p>
+<ul>
+    <li>Bachelors of Science in Communication Media Studies & Psychology - Clayton State University - 2012 </li>
+    <li>Master of Science in Information Technology/Software Engineering - Walden University - 2017 </li>
+</ul>
 <p><strong>Certs and Bootcamps</strong></p>
 <ul>
     <li>Full Stack Web and Mobile Bootcamp with NuCamp in 2020</li>
