@@ -1,5 +1,8 @@
 <div id="banner" align="center">
-    <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="950" height="250" />
+    <img src="https://ibb.co/1nX7QZB" width="950" height="250" />
+
+    https://ibb.co/1nX7QZB
+https://ibb.co/zNWkWqJ
 </div>
 
 <h2>Shanel HW - Full Stack Developer</h2>
