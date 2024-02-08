@@ -1,8 +1,6 @@
 <div id="banner" align="center">
-    <img src="https://ibb.co/1nX7QZB" width="950" height="250" />
+    <img src="https://i.ibb.co/vDCtC0Y/C6-A23509-EF68-4308-83-A2-6-B72-B37-DCE55.jpg" width="950" height="250" />
 
-    https://ibb.co/1nX7QZB
-https://ibb.co/zNWkWqJ
 </div>
 
 <h2>Shanel HW - Full Stack Developer</h2>
