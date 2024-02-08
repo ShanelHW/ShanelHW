@@ -5,13 +5,13 @@
 <h2>Shanel HW - Full Stack Developer</h2>
 
 <p><strong>About Me</strong></p>
-<p>I am a Full Stack Developer with a Master's degree in Information Technology - Software Engineering. My expertise lies in risk analysis, and I am passionate about crafting responsive full-stack web applications.</p>
-
+<p>I am a Full Stack Developer with a customer success and software support background. My expertise lies in risk analysis, and I am passionate about crafting responsive full-stack web applications.</p>
+<p>[![Shanel's GitHub stats](https://github-readme-stats.vercel.app/api?username=shanelhw)](https://github.com/shanelhw/github-readme-stats)</p>
 <p><strong>Current Projects</strong></p>
 <ul>
     <li>Developing responsive full-stack web applications</li>
     <li>Exploring the fields of data analysis and machine learning</li>
-    <li>Providing assistance with code troubleshooting and avidly consuming tech articles during leisure time (when not exploring Reddit)</li>
+    <li>Risk Analysis Dashboard</li>
 </ul>
 
 <p><strong>Education</strong></p>
