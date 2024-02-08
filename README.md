@@ -6,7 +6,9 @@
 
 <p><strong>About Me</strong></p>
 <p>I am a Full Stack Developer with a customer success and software support background. My expertise lies in risk analysis, and I am passionate about crafting responsive full-stack web applications.</p>
-<p>[![Shanel's GitHub stats](https://github-readme-stats.vercel.app/api?username=shanelhw)](https://github.com/shanelhw/github-readme-stats)</p>
+
+[![Shanel's GitHub stats](https://github-readme-stats.vercel.app/api?username=shanelhw)](https://github.com/anuraghazra/github-readme-stats)
+
 <p><strong>Current Projects</strong></p>
 <ul>
     <li>Developing responsive full-stack web applications</li>
