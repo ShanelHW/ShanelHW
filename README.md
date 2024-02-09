@@ -1,12 +1,11 @@
 <div id="banner" align="center">
-    <img src="https://i.ibb.co/vDCtC0Y/C6-A23509-EF68-4308-83-A2-6-B72-B37-DCE55.jpg" width="1200" height="400" />
-
+    <img src="https://i.ibb.co/GJMnp7G/DEA5-E451-3-D70-48-B2-BC6-C-9-B0723-D51-D4-A.jpg" width="1200" height="400" />
 </div>
 
-<h2>Shanel HW - Full Stack Developer</h2>
+<h2>Hi! I'm Shanel/h2>
 
 <p><strong>About Me</strong></p>
-<p>I am a Full Stack Developer with a customer success and software support background. My expertise lies in risk analysis, and I am passionate about crafting responsive full-stack web applications.</p>
+<p>I am a Full Stack Engineer with a passion for crafting responsive full-stack web applications.</p>
 
 [![Shanel's GitHub stats](https://github-readme-stats.vercel.app/api?username=shanelhw)](https://github.com/anuraghazra/github-readme-stats)
 
