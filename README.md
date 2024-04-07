@@ -2,7 +2,7 @@
 <card></card>
 </div>
 
-<h2>Hi! I'm Shanel/h2>
+<h2>Hi! I'm Shanel</h2>
 
 <p><strong>About Me</strong></p>
 <p>I am a Full Stack Engineer with a passion for crafting responsive full-stack web applications.</p>
