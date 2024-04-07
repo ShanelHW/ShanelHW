@@ -1,5 +1,5 @@
 <div id="banner" align="center">
-    <img src="https://i.ibb.co/GJMnp7G/DEA5-E451-3-D70-48-B2-BC6-C-9-B0723-D51-D4-A.jpg" width="1200" height="400" />
+<card></card>
 </div>
 
 <h2>Hi! I'm Shanel/h2>
